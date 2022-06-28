@@ -1,0 +1,112 @@
+Matrix for cosine, VGG-Face, database - D:/Praca Magisterska/DB/lfw/lfw/
+Confusion matrix : 
+ [[429  71]
+ [ 43 457]]
+Outcome values : 
+ 429 71 43 457
+Classification report : 
+               precision    recall  f1-score   support
+
+           1       0.91      0.86      0.88       500
+           0       0.87      0.91      0.89       500
+
+    accuracy                           0.89      1000
+   macro avg       0.89      0.89      0.89      1000
+weighted avg       0.89      0.89      0.89      1000
+
+Matrix for cosine, Facenet, database - D:/Praca Magisterska/DB/lfw/lfw/
+Confusion matrix : 
+ [[452  48]
+ [ 14 486]]
+Outcome values : 
+ 452 48 14 486
+Classification report : 
+               precision    recall  f1-score   support
+
+           1       0.97      0.90      0.94       500
+           0       0.91      0.97      0.94       500
+
+    accuracy                           0.94      1000
+   macro avg       0.94      0.94      0.94      1000
+weighted avg       0.94      0.94      0.94      1000
+
+Matrix for cosine, Facenet512, database - D:/Praca Magisterska/DB/lfw/lfw/
+Confusion matrix : 
+ [[460  40]
+ [  5 495]]
+Outcome values : 
+ 460 40 5 495
+Classification report : 
+               precision    recall  f1-score   support
+
+           1       0.99      0.92      0.95       500
+           0       0.93      0.99      0.96       500
+
+    accuracy                           0.95      1000
+   macro avg       0.96      0.96      0.95      1000
+weighted avg       0.96      0.95      0.95      1000
+
+Matrix for cosine, OpenFace, database - D:/Praca Magisterska/DB/lfw/lfw/
+Confusion matrix : 
+ [[291 209]
+ [114 386]]
+Outcome values : 
+ 291 209 114 386
+Classification report : 
+               precision    recall  f1-score   support
+
+           1       0.72      0.58      0.64       500
+           0       0.65      0.77      0.71       500
+
+    accuracy                           0.68      1000
+   macro avg       0.68      0.68      0.67      1000
+weighted avg       0.68      0.68      0.67      1000
+
+Matrix for cosine, DeepFace, database - D:/Praca Magisterska/DB/lfw/lfw/
+Confusion matrix : 
+ [[160 340]
+ [ 40 460]]
+Outcome values : 
+ 160 340 40 460
+Classification report : 
+               precision    recall  f1-score   support
+
+           1       0.80      0.32      0.46       500
+           0       0.57      0.92      0.71       500
+
+    accuracy                           0.62      1000
+   macro avg       0.69      0.62      0.58      1000
+weighted avg       0.69      0.62      0.58      1000
+
+Matrix for cosine, ArcFace, database - D:/Praca Magisterska/DB/lfw/lfw/
+Confusion matrix : 
+ [[454  46]
+ [ 17 483]]
+Outcome values : 
+ 454 46 17 483
+Classification report : 
+               precision    recall  f1-score   support
+
+           1       0.96      0.91      0.94       500
+           0       0.91      0.97      0.94       500
+
+    accuracy                           0.94      1000
+   macro avg       0.94      0.94      0.94      1000
+weighted avg       0.94      0.94      0.94      1000
+
+Matrix for cosine, DeepID, database - D:/Praca Magisterska/DB/lfw/lfw/
+Confusion matrix : 
+ [[317 183]
+ [198 302]]
+Outcome values : 
+ 317 183 198 302
+Classification report : 
+               precision    recall  f1-score   support
+
+           1       0.62      0.63      0.62       500
+           0       0.62      0.60      0.61       500
+
+    accuracy                           0.62      1000
+   macro avg       0.62      0.62      0.62      1000
+weighted avg       0.62      0.62      0.62      1000
+

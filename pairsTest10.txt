@@ -1,0 +1,21 @@
+1100
+Aaron_Peirsol	1	2
+Aaron_Peirsol	3	4
+Aaron_Sorkin	1	2
+Abdel_Nasser_Assidi	1	2
+Abdullah	1	3
+Abdullah	2	4
+Abdullah_al-Attiyah	1	3
+Abdullah_al-Attiyah	2	3
+Abel_Pacheco	1	4
+Abel_Pacheco	3	4
+AJ_Cook	1	Marsha_Thomason	1
+Aaron_Sorkin	2	Frank_Solich	5
+Abdel_Nasser_Assidi	2	Hilary_McKay	1
+Abdoulaye_Wade	4	Linda_Dano	1
+Abdul_Rahman	1	Magui_Serna	1
+Abdullah	1	Dwain_Kyles	1
+Abdullah_Nasseef	1	Hipolito_Mejia	3
+Abel_Pacheco	1	Matt_Roney	1
+Abel_Pacheco	4	Lucio_Stanca	1
+Abner_Martinez	1	Aidan_Quinn	1
